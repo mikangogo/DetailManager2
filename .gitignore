@@ -1,0 +1,13 @@
+*
+!*/
+3rdparty/*
+
+!/.editorconfig
+!/.gitattributes
+!/.gitignore
+
+!/3rdparty/*.*
+!/src/*
+!/CMakeLists.txt
+!/README.md
+!/Build.*
